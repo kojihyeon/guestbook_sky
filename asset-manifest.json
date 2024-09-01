@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/guestbook_sky/static/css/main.a3988dd5.css",
+    "main.css": "/guestbook_sky/static/css/main.34c5b4dd.css",
     "main.js": "/guestbook_sky/static/js/main.a7eb9f78.js",
     "index.html": "/guestbook_sky/index.html",
-    "main.a3988dd5.css.map": "/guestbook_sky/static/css/main.a3988dd5.css.map",
+    "main.34c5b4dd.css.map": "/guestbook_sky/static/css/main.34c5b4dd.css.map",
     "main.a7eb9f78.js.map": "/guestbook_sky/static/js/main.a7eb9f78.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3988dd5.css",
+    "static/css/main.34c5b4dd.css",
     "static/js/main.a7eb9f78.js"
   ]
 }
