@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.a3988dd5.css",
-    "main.js": "/static/js/main.a7eb9f78.js",
-    "index.html": "/index.html",
-    "main.a3988dd5.css.map": "/static/css/main.a3988dd5.css.map",
-    "main.a7eb9f78.js.map": "/static/js/main.a7eb9f78.js.map"
+    "main.css": "/guestbook_sky/static/css/main.a3988dd5.css",
+    "main.js": "/guestbook_sky/static/js/main.a7eb9f78.js",
+    "index.html": "/guestbook_sky/index.html",
+    "main.a3988dd5.css.map": "/guestbook_sky/static/css/main.a3988dd5.css.map",
+    "main.a7eb9f78.js.map": "/guestbook_sky/static/js/main.a7eb9f78.js.map"
   },
   "entrypoints": [
     "static/css/main.a3988dd5.css",
